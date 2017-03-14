@@ -5,7 +5,7 @@ inhibit_all_warnings!
 
 target :InstagramSimpleOAuth do
     pod 'SimpleOAuth2', '0.0.3'
-    pod 'MBProgressHUD', '~> 0.9'
+    pod 'MBProgressHUD', '~> 1.0.0'
 end
 
 target :InstagramSimpleOAuthTests do
