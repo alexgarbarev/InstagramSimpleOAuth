@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
   s.frameworks            = 'Foundation', 'UIKit'
 
   s.dependency 'SimpleOAuth2', '0.0.3'
-  s.dependency 'MBProgressHUD', '~> 0.9'
+  s.dependency 'MBProgressHUD', '~> 1.0.0'
 end
